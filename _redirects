@@ -1,64 +1,21 @@
-# ==========================================
-# FACULDADE
-# ==========================================
+# REDIRECIONAMENTOS DE LINKS
+# Formato: [CAMINHO] [DESTINO] [STATUS]
 
-# Horário de aulas
-/facsur/horarios                                https://shre.ink/3JlO                                                  301
-
-# Google Classroom
-/facsur/classroom                               https://shre.ink/3Jl4                                                  301
-
-# E-mails institucionais
-/facsur/emails-institucionais                   https://shre.ink/emails-facsur                                         301
-
-# Biblioteca digital (FACSUR)
-/facsur/biblioteca                              https://shre.ink/facsur-biblioteca                                     301
-
-# Agenda
-/facsur/agenda                                  https://shre.ink/3JHy                                                  301
-
-# Tarefas
-/facsur/tarefas                                 https://shre.ink/3JHG                                                  301
-
+# S: Geral
+/git                          https://codeberg.org/sivaldodavi                              301
 
 # ==========================================
-# TEXTOS BASE (1º Semestre)
+# S: FACULDADE
 # ==========================================
 
-# Linguagem e argumentação jurídica
-/textos-base/linguagem-e-argumentacao-juridica  https://drive.google.com/file/d/1J1y34AjsfYAm5NfgIDGv2M3XEARH9A5R/view?usp=sharing     301
+# T: Horário de aulas
+/facsur/horarios              https://bin.disroot.org/?9823def4fe34b399#2tFJPkj1urY8KRGM8tZ6Fz15DwwJkcGVtSyZ7oko9HxL    301
 
-# Metodologia do trabalho científico 
-/textos-base/metodologia                        https://drive.google.com/file/d/1QKjuHW1SAgYRFcGqBuyYLrcEVvS2kwqa/view?usp=drive_link  301
+# T: Google Classroom
+/facsur/classroom             https://bin.disroot.org/?b11e576085dac9bd#3n3xEKZs8178MaCxCGFfQas82cX9uCba15iE24rAEFBg    301
 
-# Sociologia e Antropologia jurídica
-/textos-base/sociologia-e-antropologia-juridica https://drive.google.com/file/d/12hCLN4WEwgwS29w2pjksO0NJ_ZmseqOV/view?usp=drive_link  301
+# T: E-mails institucionais
+/facsur/emails-institucionais https://bin.disroot.org/?786de668a234f6e9#BpZtWhocd7xHGqKLPegaRpfE3mKSct7bPoipmFXeYXrp    301
 
-
-# ------------------------------------------
-# Ciência Política e Teoria do Estado
-# ------------------------------------------
-
-# 1º - Teoria Geral do Estado e Ciência Política
-/textos-base/teoria-geral-do-estado             https://drive.google.com/file/d/1_mkWxoowmvMUq6yZKzfs-pbV1l9cM7Jl/view?usp=drive_link  301
-
-# 1º - Natureza Humana
-/textos-base/natureza-humana                    https://drive.google.com/file/d/1vLFlqSL4PjBBmZvuBM2HOH8--q8cUKt6/view?usp=drive_link  301
-
-# 1º - Sociedade
-/textos-base/sociedade                          https://drive.google.com/file/d/1S1aRtnCBWjrVqGNB-lIJU-n0PnsZRNhw/view?usp=drive_link  301
-
-# 1º - Estado
-/textos-base/estado                             https://drive.google.com/file/d/1Q5fGUrHiPfo9wN4llh_bwggBLrr2W6vQ/view?usp=drive_link  301
-
-# 2º - Formas de Governo
-/textos-base/formas-de-governo                  https://drive.google.com/file/d/1UEQGWODoYjjHt-3Dae3-iczadLkfOFks/view?usp=drive_link  301
-
-# 2º - Democracia
-/textos-base/democracia                         https://drive.google.com/file/d/1L6vlkRtrau2-Z0TtWA3uVvbrPZ2BDiK8/view?usp=drive_link  301
-
-# 2º - Sistemas de Governo
-/textos-base/sistemas-de-governo                https://drive.google.com/file/d/1FaJBl6GVfuARcjOGKzQuyyRdR7CzREcu/view?usp=drive_link  301
-
-# 2º - O Estado Brasileiro
-/textos-base/o-estado-brasileiro                https://drive.google.com/file/d/1kf1oAGpA0YK3gXjGplPlANoXg8kxaHxD/view?usp=drive_link  301
+# T: Biblioteca digital
+/facsur/biblioteca            https://sso.minhabiblioteca.com.br/Login.aspx?key=FACSUR                                  301
