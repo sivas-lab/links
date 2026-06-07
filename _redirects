@@ -1,21 +1,43 @@
-# REDIRECIONAMENTOS DE LINKS
-# Formato: [CAMINHO] [DESTINO] [STATUS]
-
-# S: Geral
+# ==========================================
+# GERAL / REDES
+# ==========================================
 /git                          https://codeberg.org/sivaldodavi                              301
+/me                           https://sivaldodavi.com                                       301
+/local                        http://localhost:1313/                                        301
+/whatsapp                     https://web.whatsapp.com                                      301
+/substack                     https://substack.com                                          301
 
 # ==========================================
-# S: FACULDADE
+# IA / FERRAMENTAS
 # ==========================================
+/claude                       https://claude.ai/                                            301
+/gemini                       https://gemini.google.com                                     301
+/notebooklm                   https://notebooklm.google.com                                 301
+/keyword-search               https://keywordtool.io/image-search                           301
+/ia-wiki                      https://ia.wiki.br                                            301
+/norai                        https://www.norai.fi                                          301
 
-# T: Horário de aulas
+# ==========================================
+# DISROOT (ECOSSISTEMA)
+# ==========================================
+/disroot                      https://disroot.org                                           301
+/disroot/cloud                https://cloud.disroot.org                                     301
+/disroot/mail                 https://webmail.disroot.org                                   301
+
+# ==========================================
+# FACULDADE (FACSUR)
+# ==========================================
 /facsur/horarios              https://bin.disroot.org/?9823def4fe34b399#2tFJPkj1urY8KRGM8tZ6Fz15DwwJkcGVtSyZ7oko9HxL    301
-
-# T: Google Classroom
 /facsur/classroom             https://bin.disroot.org/?b11e576085dac9bd#3n3xEKZs8178MaCxCGFfQas82cX9uCba15iE24rAEFBg    301
+/facsur/emails                https://bin.disroot.org/?786de668a234f6e9#BpZtWhocd7xHGqKLPegaRpfE3mKSct7bPoipmFXeYXrp    301
+/facsur/biblioteca            https://sso.minhabiblioteca.com.br/Login.aspx?key=FACSUR                      301
+/facsur/academico             https://facsur.jacad.com.br/academico/aluno-v2/login          301
 
-# T: E-mails institucionais
-/facsur/emails-institucionais https://bin.disroot.org/?786de668a234f6e9#BpZtWhocd7xHGqKLPegaRpfE3mKSct7bPoipmFXeYXrp    301
-
-# T: Biblioteca digital
-/facsur/biblioteca            https://sso.minhabiblioteca.com.br/Login.aspx?key=FACSUR                                  301
+# ==========================================
+# PESQUISA E ACADÊMICO
+# ==========================================
+/codeberg                     https://codeberg.org                                          301
+/google/drive                 https://drive.google.com                                      301
+/google/classroom             https://classroom.google.com                                  301
+/google/scholar               https://scholar.google.com.br                                 301
+/pesquisa/ufrgs               https://seer.ufrgs.br/index.php/resseveraverumgaudium/index   301
