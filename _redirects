@@ -4,8 +4,17 @@
 # ==========================================
 # FACULDADE (FACSUR)
 # ==========================================
-/facsur/horarios              https://bin.disroot.org/?9823def4fe34b399#2tFJPkj1urY8KRGM8tZ6Fz15DwwJkcGVtSyZ7oko9HxL    301
-/facsur/classroom             https://bin.disroot.org/?b11e576085dac9bd#3n3xEKZs8178MaCxCGFfQas82cX9uCba15iE24rAEFBg    301
-/facsur/emails                https://bin.disroot.org/?786de668a234f6e9#BpZtWhocd7xHGqKLPegaRpfE3mKSct7bPoipmFXeYXrp    301
 /facsur/biblioteca            https://sso.minhabiblioteca.com.br/Login.aspx?key=FACSUR                      301
-/facsur/academico             https://facsur.jacad.com.br/academico/aluno-v2/login          301
+/facsur/academico             https://facsur.jacad.com.br/academico/aluno-v2/login                          301
+
+# ==========================================
+# ACADÊMICO
+# ==========================================
+/lattes                       http://lattes.cnpq.br/0213004367898500                                        301
+
+# ==========================================
+# REDES SOCIAIS & CONTATOS
+# ==========================================
+/inst                         https://www.instagram.com/sivaldodavi/                                        301
+/yt                           https://www.youtube.com/@sivaldodavi                                          301
+/wa                           https://wa.me/55DDDSEUNUMERO                                                  301
