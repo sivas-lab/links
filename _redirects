@@ -1,5 +1,4 @@
-/install              https://codeberg.org/sivaldodavi/dotfiles/raw/branch/main/.local/bin/install/config    301
-/alpine               https://codeberg.org/sivaldodavi/dotfiles/raw/branch/main/.local/bin/install/alpine    301
+/install              https://codeberg.org/sivaldodavi/dotfiles/raw/branch/main/.local/bin/install    301
 
 # ==========================================
 # FACULDADE (FACSUR)
@@ -17,9 +16,3 @@
 # ==========================================
 /inst                         https://www.instagram.com/sivaldodavi/                                        301
 /yt                           https://www.youtube.com/@sivaldodavi                                          301
-/wa                           https://wa.me/55DDDSEUNUMERO                                                  301
-
-# ==========================================
-# GIT
-# ==========================================
-/git/ffsetup                 https://codeberg.org/sivaldodavi/ffsetup.git                                   301
